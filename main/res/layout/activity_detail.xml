@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A layout file requires a single view or view group as its root element. If your activity only contains
+a fragment, the fragment itself can be the root element. -->
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="com.myproject.fragmentdemoapp.WorkoutDetailFragment"
+    android:id="@+id/detailFrag"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    />

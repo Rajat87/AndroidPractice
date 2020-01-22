@@ -1,0 +1,11 @@
+<!--This works but only for static fragments i.e when the device is rotated the fragment is re-created-->
+<!--To Create Dynamic Fragments wen need to use Frame Layout-->
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="com.myproject.fragmentdemoapp.WorkoutListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainFrag"/>
+
+
+
